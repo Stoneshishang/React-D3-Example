@@ -1,3 +1,6 @@
+This is the Udemy course about React and D3. 
+
+If the modified 'M'/'U' icon disappears from VS Code explorer, make sure to open the project itself in VS Code instead of cd into the directory. If the Project itself won't show up in the VS Code Explorer, the 'U' or 'M' etc. icon will disappear.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
